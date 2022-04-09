@@ -38,3 +38,22 @@ Emoji keys for outlining data and services specific to a valid ISO 19115 Categor
 - :zap: Energy
 - :handshake: Humanitarian
 - :national_park: Conservation
+
+### Access
+
+- :gem: - Public/ Open
+- :unlock: - Authwalled (account is required)
+- :icecream: - Free (Gratis but proprietary)
+- :money_with_wings: - Freemium (Pay nothing now but much later)
+- :moneybag: - Commercial (Requires license)
+
+### Licensing
+
+Licensing information is provided where possible, however it is subject to error and may change at any time.
+
+- :zero: - Public (Open Data/ Open Source/ Public Domain/ Copyfree/ Commons)
+- :warning: - No license information given
+- :copyright: - Various, depending on specific data
+- :no_entry: - Copyright and data limitations apply
+
+> Note that "Public" or "Commons" licenses are not without requirements or limitations.
