@@ -57,11 +57,11 @@ Emoji keys for outlining data and services specific to a valid ISO 19115 Categor
 
 ### Licensing
 
-Licensing information is provided where possible, however it is subject to error and may change at any time.
+Please do not trust licensing information provided in contexts such as documentation and social media. Use only the officially supplied license or terms of service.
 
 - :zero: - Public (Open Data/ Open Source/ Public Domain/ Copyfree/ Commons)
 - :warning: - No license information given
 - :copyright: - Various, depending on specific data
 - :no_entry: - Copyright and data limitations apply
 
-> Note that "Public" or "Commons" licenses are not without requirements or limitations.
+> Note that "Public" or "Commons" licenses are not without requirements or limitations such as attribution.
