@@ -2,6 +2,14 @@
 
 Like https://gitmoji.dev/, but for GIS
 
+## Raison d'être
+
+The function of this project is to provide a consistent and standardized way to reference GIS element metadata using emoji.
+
+This is useful for providing universal references to items in various contexts using icons which are intuitive, easily identifiable when scanning media, and not language dependent.
+
+For more information on why this is deemed useful, please review [https://kartoza.github.io/docs/polyglot](https://kartoza.github.io/docs/polyglot)
+
 ### ISO 19115 Topic Category
 
 Emoji keys for outlining data and services specific to a valid ISO 19115 Category
