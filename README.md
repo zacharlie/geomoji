@@ -10,6 +10,8 @@ This is useful for providing universal references to items in various contexts u
 
 For more information on why this is deemed useful, please review [https://kartoza.github.io/docs/polyglot](https://kartoza.github.io/docs/polyglot)
 
+This is not a set of emoji for use as a standard for map symbology. For that project, view [https://github.com/zacharlie/geomojology](https://github.com/zacharlie/geomojology).
+
 ### ISO 19115 Topic Category
 
 Emoji keys for outlining data and services specific to a valid ISO 19115 Category
